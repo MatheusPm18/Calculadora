@@ -16,3 +16,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get ('/soma', '\App\http\controllers\calculadoracontroller@soma');
