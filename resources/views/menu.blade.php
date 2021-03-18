@@ -49,8 +49,10 @@
                     <button type="submit" class="btn btn-primary">Dividir</button>
                     </form>
             </div>  
-            
-              
+
+               <div class="row mt-2">
+               <center> Todos os Direitos Reservador a Matheus Pereira Melo - 18/03/2021 </center>
+        </div>
 
 
         </div>
